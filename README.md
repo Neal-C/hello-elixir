@@ -53,6 +53,12 @@ See docs: https://elixir-lang.org/install.html
 
 and install elixir locally on your machine
 
+```shell
+git clone git@github.com:Neal-C/hello-elixir.git
+cd hello-elixir
+elixir hello.exs
+```
+
 #### Build from source
 
 You can alos build from source if you are into that kind of thing
